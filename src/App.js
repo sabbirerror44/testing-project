@@ -1,9 +1,10 @@
-import Footer from './Components/Footer/Footer';
+import Looter from './Components/Looter/Looter';
 
 function App() {
   return (
     // <Home></Home>
-    <Footer></Footer>
+    // <Footer></Footer>
+    <Looter></Looter>
   );
 }
 
